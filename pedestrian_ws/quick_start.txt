@@ -5,4 +5,6 @@ rosrun pedestrian ssd_detection.py #必须同一个窗口
 roslaunch multimaster master_qcj.launch
 roslaunch multimaster master_lps.launch
 
-rosbag play pedestrian_ws/all_map_kadun.bag -l
+
+#rosbag play pedestrian_ws/all_map_kadun.bag -l
+#you can also write a self-start program according to the real environment.
