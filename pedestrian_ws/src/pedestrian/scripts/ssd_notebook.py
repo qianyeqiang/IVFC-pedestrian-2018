@@ -1,1 +1,1 @@
-/home/cyberc3/SSD-Tensorflow-master/notebooks/ssd_notebook.py
+/home/cyberc3/IVFC-pedestrian-2018/notebooks/ssd_notebook2018.py
