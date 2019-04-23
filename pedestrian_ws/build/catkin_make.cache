@@ -1,0 +1,2 @@
+pedestrian:test:tiggo_msgs
+-DCATKIN_DEVEL_PREFIX=/home/cyberc3/SSD-Tensorflow-master/pedestrian_ws/devel -DCMAKE_INSTALL_PREFIX=/home/cyberc3/SSD-Tensorflow-master/pedestrian_ws/install -G Unix Makefiles

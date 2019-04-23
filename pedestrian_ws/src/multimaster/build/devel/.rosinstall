@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/hubing/ros-project/hubing_ws/src/multimaster/build/devel/setup.sh

@@ -1,0 +1,2 @@
+local_pubs: [/axis_long_focus/image_raw/compressed,/axis_wide_range/image_raw/compressed,/velodyne_points]
+foreign_pubs: []

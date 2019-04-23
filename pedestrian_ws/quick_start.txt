@@ -1,0 +1,8 @@
+roscore
+source pedestrian_ws/devel/setup.bash
+rosrun pedestrian ssd_detection.py #必须同一个窗口
+
+roslaunch multimaster master_qcj.launch
+roslaunch multimaster master_lps.launch
+
+rosbag play pedestrian_ws/all_map_kadun.bag -l

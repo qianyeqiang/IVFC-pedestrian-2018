@@ -1,0 +1,8 @@
+prefix=/home/cyberc3/SSD-Tensorflow-master/pedestrian_ws/devel
+
+Name: test
+Description: Description of test
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/cyberc3/SSD-Tensorflow-master/pedestrian_ws/devel/lib 
+Requires: 

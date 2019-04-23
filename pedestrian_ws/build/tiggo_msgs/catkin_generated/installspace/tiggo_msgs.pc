@@ -1,0 +1,8 @@
+prefix=/home/cyberc3/SSD-Tensorflow-master/pedestrian_ws/install
+
+Name: tiggo_msgs
+Description: Description of tiggo_msgs
+Version: 0.0.1
+Cflags: -I/home/cyberc3/SSD-Tensorflow-master/pedestrian_ws/install/include
+Libs: -L/home/cyberc3/SSD-Tensorflow-master/pedestrian_ws/install/lib 
+Requires: message_runtime roscpp std_msgs geometry_msgs sensor_msgs

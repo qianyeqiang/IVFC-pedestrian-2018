@@ -1,0 +1,2 @@
+local_pubs: []
+foreign_pubs: [/axis_front/image_rect_color/compressed, /axis_rear/image_rect_color/compressed ,/axis_left/image_rect_color/compressed ,/axis_right/image_rect_color/compressed,  /axis_front/image/compressed, /axis_rear/image/compressed ,/axis_left/image/compressed ,/axis_right/image/compressed,/axis_front/camera_info,/axis_rear/camera_info,/axis_left/camera_info,/axis_right/camera_info]
